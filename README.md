@@ -1,104 +1,51 @@
-<div align="right">
-<a style="text-decoration: none" target="_blank"href="https://github.com/codediaz">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=codediaz.codediaz&left_color=gray&right_color=blue&left_text=Coders%20visitors">
-</a>
-<a style="text-decoration: none" target="_blank" href="https://twitter.com/codediazsergio" >
-<img width="60"src="https://img.shields.io/twitter/follow/chipro?label=Follow&style=social">
-</a>
-<a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/sergio-diaz-fernandez/" >
-<img width="70"src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
-</a>
-</div>
 
-<br>
+# 👋 ¡Hola! Soy Juan Pérez
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Sergio+Díaz!;" />
+¡Bienvenido/a a mi perfil de GitHub!  
+Soy estudiante de Técnico en Informática apasionado por el desarrollo de software, la gestión de bases de datos y la tecnología en general. Me gusta aprender constantemente y compartir mis conocimientos a través de proyectos y colaboraciones.
 
-<h2>📖 | About me</h2> 
-🌐 With 3+ years of experience as a Senior Software Engineer, I'm dedicated to developing software solutions that effectively bridge technology with real-world applications. My comprehensive expertise encompasses frontend, backend, and full-stack development, enabling me to contribute significantly to projects ranging from innovative startups to complex enterprise solutions. I advocate for clean, maintainable code and user-centric design, thriving in environments that prioritize innovation and ongoing professional growth.
+---
 
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
+## 🛠️ Tecnologías y herramientas
 
-<h2>📚 | Education</h2>
-<p>As an engineer committed to lifelong learning, my academic path is both active and aspirational. Having achieved my bachelor's degree, I'm now advancing through my master's program, with the ultimate goal of attaining a doctoral degree.</p><br>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![ObjectDB](https://img.shields.io/badge/-ObjectDB-blue?style=flat-square)
 
-<div align="center">
-  <table style="margin-left: auto; margin-right: auto;">
-    <tr>
-      <td align="center">
-        <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png"/>
-        <img src="https://thumbs4.imagebam.com/6c/bc/6e/MESRGXI_t.png" width="90" alt="UPS.png"/><br>
-        <img src="https://thumbs4.imagebam.com/d7/6e/91/MESRJ8U_t.png" height="20" alt="Ec.png"/><br>
-        <strong>UPS</strong><br><strong>BSc.</strong> Computer Science<br>
-        <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
-      </td>
-      <td align="center">
-       <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
-       <img src="https://thumbs4.imagebam.com/d6/0d/e4/MESRJUR_t.png" width="90" alt="TEC.png"/><br>
-        <img src="https://thumbs4.imagebam.com/b9/01/da/MESRJ8V_t.png" height="20" alt="Mx.png"/><br>
-        <strong>TEC</strong><br><strong>MSc.</strong> Inf. Technology Mgmt<br>
-        <img src="https://progress-bar.dev/30/" width="100" alt="progress-bar"/>
-      </td>
-      <td align="center">
-       <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
-       <img src="https://thumbs4.imagebam.com/5b/76/d8/MESRJL0_t.png" width="90" alt="MIT-C-I.png"/><br>
-        <img src="https://thumbs4.imagebam.com/c8/fe/34/MESRJ8W_t.png" height="20" alt="Usa.png"/><br>
-        <strong>MIT</strong><br><strong>PhD.</strong> Computer Science<br>
-        <img src="https://progress-bar.dev/0/" width="105" alt="progress-bar"/>
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
-<h2>🔥| My contribution streak</h2>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codediaz#version3"/>
-  </a>
-</p>
+## 🚀 Proyectos destacados
 
-<h2>⭐ | Github Stats </h2>
+- 🎓 [Portafolio](https://john10alvarezz.github.io/Portafolio/): Portafolio personal.
 
-<div align="center">
-<a href="https://github.com/codediaz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codediaz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codediaz&layout=compact&langs_count=7&theme=default"/></a>
-</div>
+---
 
-<h2>🛠️ | Languages, Frameworks, and Tools </h2>
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,anaconda,opencv,java,php,laravel,cs,net,spring,go"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,mui,bootstrap,html,css,js,ts,angular,vue,vuetify"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,gcp,aws,prometheus,terraform,azure,kubernetes"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,graphql,mongodb,redis,elasticsearch"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab,bitbucket"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana"/></td>
-    </tr>
-</table>
-<br>
+## 📫 Contacto
 
-------
-**Credits :** [codediaz](https://github.com/codediaz)
+- ✉️ Email: jalvarez2023@alu.uct.cl   
+- 📷 Instagram: [@john._.alvarez_](https://www.instagram.com/john._.alvarez_/)  
+- 🌐 Portafolio: [john10alvarezz](https://john10alvarezz.github.io/Portafolio/)
 
-**Last Edited on:** 06/04/2024
+---
+
+## 📊 GitHub Stats
+
+![John10alvarezz GitHub stats](https://github-readme-stats.vercel.app/api?username=John10alvarezz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John10alvarezz&layout=compact&theme=radical)
+
+---
+
+## 💬 Frase que me inspira
+
+> *"La mejor forma de predecir el futuro es inventarlo."* – Alan Kay
+
+---
+
+¡Gracias por visitar mi perfil! 😊  
+No dudes en explorar mis repositorios o contactarme si quieres colaborar.
+
