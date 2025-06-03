@@ -1,5 +1,5 @@
 
-# 👋 ¡Hola! Soy Juan Pérez
+# 👋 ¡Hola! Soy John Álvarez
 
 ¡Bienvenido/a a mi perfil de GitHub!  
 Soy estudiante de Técnico en Informática apasionado por el desarrollo de software, la gestión de bases de datos y la tecnología en general. Me gusta aprender constantemente y compartir mis conocimientos a través de proyectos y colaboraciones.
